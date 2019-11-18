@@ -9,3 +9,6 @@ Found a suitable Bootstrap template to build my fullstack app. Altered the landi
 
 ## Lessons Learned
 Sometimes copying and pasting previous code can cause problems, I still need to work out the different problems that exist, but I believe I am off to a good start. Hope to take it further and provide more functionality.
+
+### Work In Progress
+Having difficulty applying styling from bootstrap template to ejs files.
